@@ -8,6 +8,8 @@
 
 `php artisan key:generate`
 
+`php artisan jwt:secret`
+
 `php artisan migrate:refresh --seed`
 
 `php artisan serve`
